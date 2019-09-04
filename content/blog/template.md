@@ -1,7 +1,7 @@
 ---
-title: "Guild Ball"
-date: 2019-08-23
-draft: false
+title: "Template"
+date: 2019-08-30
+draft: true
 ---
 
 ## Overview
