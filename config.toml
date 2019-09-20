@@ -1,6 +1,7 @@
 baseurl = "https://https://ozlocke.github.io/bg-quickstarts/"
 title = "Board Game Quickstarts"
 theme = "pulp"
+publishDir = "docs"
 canonifyurls = true
 hasCJKLanguage = true
 # pygmentsCodefences = true
