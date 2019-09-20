@@ -1,24 +1,27 @@
 ---
-title: "Template"
-date: 2019-08-30
+title: "TEMPLATE"
+date: 2019-09-20
 draft: true
 ---
 
 ## Overview
 
-Some text explaining the aim of the game, and quick reminder of gameplay
+A brief summary of the game.
 
 ## Set up
 
-1. An ordered list
-2. Detailing the process of
-3. Setting up the game
+1. A step by step guide to setting up the game
 
-## Gamplay
+## Gameplay
 
-A description of gameplay in whatever format (or mix of formats best suits)
+A streamlined breakdown of gameplay, using subheading where needed.
+
+## Game end
+
+The end conditions of the game, and any scoring rules if needed.
 
 ## Easily forgot or misunderstood rules
 
-- A list of easily forgotten
-- Or ofetn misunderstood rules
+### A subheading for the part of the game the rule belongs to, e.g. Setup
+
+- An easily forgotten rule
