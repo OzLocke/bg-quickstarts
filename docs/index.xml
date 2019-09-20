@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Board Game Quickstarts</title>
-    <link>https://https://ozlocke.github.io/bg-quickstarts/</link>
+    <link>https://ozlocke.github.io/bg-quickstarts/</link>
     <description>Recent content on Board Game Quickstarts</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://https://ozlocke.github.io/bg-quickstarts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ozlocke.github.io/bg-quickstarts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Volfyirion</title>
-      <link>https://https://ozlocke.github.io/bg-quickstarts/blog/volfyirion/</link>
+      <link>https://ozlocke.github.io/bg-quickstarts/blog/volfyirion/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://https://ozlocke.github.io/bg-quickstarts/blog/volfyirion/</guid>
+      <guid>https://ozlocke.github.io/bg-quickstarts/blog/volfyirion/</guid>
       <description>Overview Acquire cards, capture wonders, build and arm your cities, control a dragon, attack your enemy&amp;hellip; all with the ultimate goal of destroying your opponent&amp;rsquo;s cities.
 Set up  Each player takes a House Deck, shuffles it, places it in front of themselves. Each player takes their 3 City Cards and places them in front of them Shuffles the Troop, Building, and command cards to form a facedown Asset deck in the centre of the table, then&amp;hellip; i.</description>
     </item>
     
     <item>
       <title>Realm of Sand</title>
-      <link>https://https://ozlocke.github.io/bg-quickstarts/blog/realm_of_sand/</link>
+      <link>https://ozlocke.github.io/bg-quickstarts/blog/realm_of_sand/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://https://ozlocke.github.io/bg-quickstarts/blog/realm_of_sand/</guid>
+      <guid>https://ozlocke.github.io/bg-quickstarts/blog/realm_of_sand/</guid>
       <description>Overview Players take it in turns to place squares on their boards in the form of (polyomino) Rune Tiles that they discard from their hands. They then use the shapes they have created with these squares to complete buildings from a central pool. Buildings offer bonuses in game, and points at the end of the game in the form of stars. Building cards also include hourglass icons that dictate the end of the game.</description>
     </item>
     

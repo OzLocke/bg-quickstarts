@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Board Game Quickstarts</title>
-    <link>https://https://ozlocke.github.io/bg-quickstarts/series/</link>
+    <link>https://ozlocke.github.io/bg-quickstarts/series/</link>
     <description>Recent content in Series on Board Game Quickstarts</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://https://ozlocke.github.io/bg-quickstarts/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ozlocke.github.io/bg-quickstarts/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
