@@ -5,10 +5,20 @@
     <link>https://ozlocke.github.io/bg-quickstarts/</link>
     <description>Recent content on Board Game Quickstarts</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ozlocke.github.io/bg-quickstarts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tokyo Highway</title>
+      <link>https://ozlocke.github.io/bg-quickstarts/blog/tokyo_highway/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozlocke.github.io/bg-quickstarts/blog/tokyo_highway/</guid>
+      <description>Overview Build the best highway, under and overlapping your opponent&amp;rsquo;s roads, and placing all your cars before anyone else. Try not to run out of building components though, or you&amp;rsquo;re out of the game!
+Set up  The first player is the player to most recently be on a highway, player order proceeds to the left Give each player pieces based on the table below In player order, each player places one column (a single gray disks) a road&amp;rsquo;s (stick) length away from all other players&amp;rsquo; columns in a 3 or 4 player game, in reverse player order, each player places a building randomly on the table     Item 2 Players 3 Players 4 Players     Cars 10 8 7   Columns 30 25 20   Junctions 3 2 2   Roads 15 12 9    Gameplay Aim The aim of the game is to get rid of all of your cars, the first player to do so wins.</description>
+    </item>
     
     <item>
       <title>Volfyirion</title>
