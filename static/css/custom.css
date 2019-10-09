@@ -21,3 +21,19 @@ header a.author:active {
 .date {
     color: #869D38;
 }
+
+header .logo-main {
+    height: 250px;
+}
+
+header .logo-main img {
+    width: 250px;
+}
+
+header .logo-guide {
+    height: 150px;
+}
+
+header .logo-guide img {
+    width: 150px;
+}
