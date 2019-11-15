@@ -3,13 +3,15 @@
   {{ partial "head.html" . }}
   <body>
     {{ partial "header.html" . }}
-  <!-- search box -->
-  <div id="searchBox">
-    <input type="text" id="searchBoxInput" placeholder="Search..." />
-    <img id="searchBoxIcon" src="{{ .Site.BaseURL }}/img/search.png" />
-  </div>
-  <!-- search results -->
-  <div id="searchResults"></div>
+  <!--
+   search box
+    <div id="searchBox">
+      <input type="text" id="searchBoxInput" placeholder="Search..." />
+      <img id="searchBoxIcon" src="{{ .Site.BaseURL }}/img/search.png" />
+    </div>
+    search results
+    <div id="searchResults"></div>
+  -->
   <!-- contents -->
   <div id="contentsList">
     {{ $listPageDateFormat := .Site.Params.listPageDateFormat | default "January, 2006"}}
